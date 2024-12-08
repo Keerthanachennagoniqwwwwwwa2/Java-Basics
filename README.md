@@ -1,10 +1,9 @@
 "# Java-Basics" 
 
-## Website
+## Hosted HTML Page
 
-This repository includes a simple website. You can open it locally by clicking the link below:
+You can view the hosted page here: [Live Demo](http://3.147.8.170/index.html)
 
-[Open the Website Locally]( http://3.147.8.170/index.html)
 
 
 
